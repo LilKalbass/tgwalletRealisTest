@@ -1,0 +1,6 @@
+{
+  "name": "My TON Wallet App",
+  "description": "A simple app for connecting a TON wallet",
+  "url": "https://tgwallet-realis-test.vercel.app",
+  "icon_url": "https://tgwallet-realis-test.vercel.app/icon.png"
+}
